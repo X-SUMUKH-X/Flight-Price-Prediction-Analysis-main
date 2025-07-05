@@ -1,0 +1,2 @@
+# Flight-Price-Prediction-Analysis-main
+This project aims to perform Exploratory Data Analysis (EDA) on a dataset of flight prices. The objective is to identify key patterns, trends, and relationships between different features and flight prices. The dataset includes various flight attributes, which will help us understand the factors influencing the flight prices and prepare the dataset for further predictive modeling.
